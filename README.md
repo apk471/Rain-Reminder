@@ -1,4 +1,3 @@
-Certainly! Below is a README file template for your Weather Notification project:
 
 ---
 
